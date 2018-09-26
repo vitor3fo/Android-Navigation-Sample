@@ -1,2 +1,5 @@
 # Android-Navigation-Sample
-Simple Sample code for working with
+Simple sample code for working with:
+
+The Navigation Architecture Component 
+https://developer.android.com/topic/libraries/architecture/navigation/
