@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android-Navigation-Sample</string>
+    <string name="title_dfeature_a">Module A Title</string>
+    <string name="goto_frag_1">GOTO FFRAG 2</string>
+    <string name="goto_feature_a">GOTO FEATURE A</string>
+</resources>
